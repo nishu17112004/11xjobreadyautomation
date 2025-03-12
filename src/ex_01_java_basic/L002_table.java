@@ -3,7 +3,7 @@ package ex_01_java_basic;
 public class L002_table {
     public static void main(String[] args) {
 
-        System.out.println("9x1="+9*1);
+        System.out.println(9*1);
         System.out.println("9x2="+9*2);
         System.out.println("9x3="+9*3);
         System.out.println("9x4="+9*4);
