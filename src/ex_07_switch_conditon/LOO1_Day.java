@@ -1,4 +1,4 @@
-package ex_switch_conditon;
+package ex_07_switch_conditon;
 
 import java.util.Scanner;
 

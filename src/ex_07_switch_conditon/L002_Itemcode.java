@@ -1,4 +1,4 @@
-package ex_switch_conditon;
+package ex_07_switch_conditon;
 
 public class L002_Itemcode {
     public static void main(String[] args) {
